@@ -1,24 +1,24 @@
-# 🪨 Rock Paper Scissors Game
+# 📒 Contact Book (Tkinter Project)
 
-This is a simple GUI-based **Rock Paper Scissors** game built using **Python** and **Tkinter**.
+A simple and beginner-friendly Contact Book application built using Python and Tkinter. It allows you to add, view, search, update, and delete contacts based on **Name** and **Phone Number**.
 
-## 📌 Description
+---
 
-This game allows the user to play Rock, Paper, Scissors against the computer. The computer's choice is generated randomly, and the game keeps track of the score after every round. There's also an option to reset the score and play again.
+## 🔧 Features
 
-## 🎮 Features
+- Add new contacts  
+- View all saved contacts  
+- Search contacts by name or phone number  
+- Update selected contact  
+- Delete selected contact  
+- Easy-to-use GUI built with Tkinter  
 
-- Interactive GUI using Tkinter
-- Score tracking (user vs computer)
-- Random computer selection
-- Play again/reset button
-- Beginner-friendly and easy to run
+---
 
-## 🚀 How to Run
+## 🛠 Tech Stack
 
-1. Make sure you have Python installed.
-2. Clone this repository or download the `rock_paper_scissors.py` file.
-3. Run the game using the command:
+- **Language:** Python  
+- **GUI Library:** Tkinter (built-in)
 
-```bash
-python rock_paper_scissors.py
+---
+
